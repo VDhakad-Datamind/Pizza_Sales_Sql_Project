@@ -1,1 +1,1 @@
-# Pizza_Sales_Sql_Project
+# Pizza Sales Analysis with MySQL
