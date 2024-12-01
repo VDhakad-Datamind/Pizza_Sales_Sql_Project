@@ -10,7 +10,7 @@
 
 -**Dataset Link**: [Pizza Dataset](https://github.com/VDhakad-Datamind/Pizza_Sales_Sql_Project/tree/main/pizza_sales_datasets)
 
-##Business Problems and solutions
+## Business Problems and solutions
 
 
 ### 1. Retrieve the total number of orders placed.
